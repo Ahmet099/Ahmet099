@@ -28,8 +28,8 @@
 ## 👥 Üniversite aktivitelerim
 
 **Scorpion Games**: Oyun Geliştirme kulübü
--[Gamejam Projemiz](https://github.com/Ahmet099/TED_Gamejam)
+- [Gamejam Projemiz](https://github.com/Ahmet099/TED_Gamejam)
 
   
 **GDG on campus Atatürk Üniversitesi**
--Rol: Design Core Team Member
+- Rol: Design Core Team Member
