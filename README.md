@@ -1,3 +1,46 @@
+# Hi there! 👋
+
+## Who Am I?
+- 🎮 Passionate Game Developer
+- 🤖 Enthusiast in Artificial Intelligence and Deep Learning
+- 🐍 Expert in Python
+- 🎨 Designer and 3D Modeling Enthusiast
+
+![GIF](https://media.giphy.com/media/your_gif_link_here.gif)
+
+
+## 🛠 Languages & Tools I Know
+![Python](https://img.shields.io/badge/Code-Python-blue)
+
+
+## 🎓 University Courses
+- HTML, Visual Basic, Microsoft Access, PHP, Adobe Photoshop, Adobe Animate, Adobe Illustrator
+
+
+## 🌱 My Interests
+- Game Development
+- Artificial Intelligence & Deep Learning
+- AI & Data Management
+
+
+## 👥 University Clubs & Roles
+- **Scorpion Games**: Game Developer Club
+- [Gamejam Project](https://github.com/Ahmet099/TED_Gamejam)
+
+- **GDG on campus Atatürk University**
+- Role: Design Core Team Member
+
+
+## 🌟 Areas of Activity & Interests
+- Game Development 🎮
+- Artificial Intelligence & Deep Learning 🤖
+- 3D Modeling & Animation 🎨
+- AI and Data Management 📊
+
+**------------------------------------------------------------------------------------**
+
+**-----------------------**
+
 # MERHABA! 
 
 ## Ben Kimim?
