@@ -26,8 +26,10 @@
 - Yapay zeka ve veri yönetimi
 
 ## 👥 Üniversite aktivitelerim
--**Scorpion Games**: Oyun Geliştirme kulübü
-- [Gamejam Projemiz](https://github.com/Ahmet099/TED_Gamejam)
+
+**Scorpion Games**: Oyun Geliştirme kulübü
+-[Gamejam Projemiz](https://github.com/Ahmet099/TED_Gamejam)
+
   
-- **GDG on campus Atatürk Üniversitesi**
-  -Rol: Design Core Team Member
+**GDG on campus Atatürk Üniversitesi**
+-Rol: Design Core Team Member
