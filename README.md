@@ -1,4 +1,4 @@
-# Merhaba!
+# MERHABA! 
 
 ## Ben Kimim?
 - 🎮 Oyun geliştirme tutkunu
@@ -10,20 +10,24 @@
 
 ## 🛠 Bildiğim Diller ve Araçlar
 ![Python](https://img.shields.io/badge/Code-Python-blue)
+
 ![C#](https://img.shields.io/badge/Code-C%23-purple)
+
 ![Unity](https://img.shields.io/badge/Game%20Engine-Unity-ff69b4)
+
 ![Blender](https://img.shields.io/badge/3D-Blender-orange)
 
-## 🎓 Eğitim
-- HTML, Visual Basic, Microsoft Access,
-
-## 🚀 Projelerim
-- [Proje 1](link): Proje açıklaması
-- [Proje 2](link): Proje açıklaması
+## 🎓 Üniversitede Aldığım Eğitimler
+- HTML, Visual Basic, Microsoft Access, PHP, Adobe Photoshop, Adobe Animate, Adobe Illustrator
 
 ## 🌱 İlgi Alanlarım
 - Oyun geliştirme
 - Yapay zeka ve derin öğrenme
+- Yapay zeka ve veri yönetimi
 
-## 👥 Üniversite Kulüpleri ve Rolleri
-- **GDSC Atatürk Üniversitesi**: Tasarım ve Donanım Projeleri
+## 👥 Üniversite aktivitelerim
+-**Scorpion Games**: Oyun Geliştirme kulübü
+- [Gamejam Projemiz](https://github.com/Ahmet099/TED_Gamejam)
+  
+- **GDG on campus Atatürk Üniversitesi**
+  -Rol: Design Core Team Member
