@@ -1,4 +1,4 @@
-# Merhaba! 👋
+# Merhaba!
 
 ## Ben Kimim?
 - 🎮 Oyun geliştirme tutkunu
