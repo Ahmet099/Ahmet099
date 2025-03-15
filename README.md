@@ -12,6 +12,12 @@
 ## 🛠 Languages & Tools I Know
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 
+![C#](https://img.shields.io/badge/Code-C%23-purple)
+
+![Unity](https://img.shields.io/badge/Game%20Engine-Unity-ff69b4)
+
+![Blender](https://img.shields.io/badge/3D-Blender-orange)
+
 
 ## 🎓 University Courses
 - HTML, Visual Basic, Microsoft Access, PHP, Adobe Photoshop, Adobe Animate, Adobe Illustrator
@@ -24,10 +30,10 @@
 
 
 ## 👥 University Clubs & Roles
-- **Scorpion Games**: Game Developer Club
+**Scorpion Games**: Game Developer Club
 - [Gamejam Project](https://github.com/Ahmet099/TED_Gamejam)
 
-- **GDG on campus Atatürk University**
+**GDG on campus Atatürk University**
 - Role: Design Core Team Member
 
 
@@ -36,12 +42,12 @@
 - Artificial Intelligence & Deep Learning 🤖
 - 3D Modeling & Animation 🎨
 - AI and Data Management 📊
-
-**------------------------------------------------------------------------------------**
-
-**-----------------------**
-
-# MERHABA! 
+##
+** **
+##
+** **
+##
+# MERHABA! 👋
 
 ## Ben Kimim?
 - 🎮 Oyun geliştirme tutkunu
@@ -76,3 +82,10 @@
   
 **GDG on campus Atatürk Üniversitesi**
 - Rol: Design Core Team Member
+
+
+## 🌟 Faaliyet Alanlarım & İlgi Alanlarım
+- Oyun Geliştirme 🎮
+- Yapay Zeka & Derin Öğrenme 🤖
+- 3D Modelleme & Animasyon 🎨
+- AI ve Veri Yönetimi 📊
