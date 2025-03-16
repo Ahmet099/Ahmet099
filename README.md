@@ -66,7 +66,7 @@
 <br><br>
 <br><br>
 
-# MERHABA! 👋
+# Merhaba! 👋
 
 ## Ben Kimim?
 - 🎮 Oyun geliştirme tutkunu
