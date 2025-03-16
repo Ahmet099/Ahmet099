@@ -80,12 +80,14 @@
 
 ## 🛠 Bildiğim Diller ve Araçlar
 ![Python](https://img.shields.io/badge/Code-Python-blue)
-
 ![C#](https://img.shields.io/badge/Code-C%23-purple)
-
+![CSS](https://img.shields.io/badge/Code-CSS-Grey)
+![HTML](https://img.shields.io/badge/Code-HTML-black)
+![Visual Basic](https://img.shields.io/badge/Code-VisualBasic-blue)
 ![Unity](https://img.shields.io/badge/Game%20Engine-Unity-ff69b4)
-
 ![Blender](https://img.shields.io/badge/3D-Blender-orange)
+![Nomad Sculpt](https://img.shields.io/badge/3D-NomadSculpt-pink)
+![Zbrush](https://img.shields.io/badge/3D-ZbrushIpadApp-gray)
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
