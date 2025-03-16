@@ -6,7 +6,9 @@
 - 🐍 Expert in Python
 - 🎨 Designer and 3D Modeling Enthusiast
 
-![GIF](https://media.giphy.com/media/your_gif_link_here.gif)
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<br><br>
 
 
 ## 🛠 Languages & Tools I Know
@@ -18,16 +20,25 @@
 
 ![Blender](https://img.shields.io/badge/3D-Blender-orange)
 
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+<br><br>
 
 ## 🎓 University Courses
 - HTML, Visual Basic, Microsoft Access, PHP, Adobe Photoshop, Adobe Animate, Adobe Illustrator
 
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+<br><br>
 
 ## 🌱 My Interests
 - Game Development
 - Artificial Intelligence & Deep Learning
 - AI & Data Management
 
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<br><br>
 
 ## 👥 University Clubs & Roles
 **Scorpion Games**: Game Developer Club
@@ -36,17 +47,20 @@
 **GDG on campus Atatürk University**
 - Role: Design Core Team Member
 
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br><br>
 
 ## 🌟 Areas of Activity & Interests
 - Game Development 🎮
 - Artificial Intelligence & Deep Learning 🤖
 - 3D Modeling & Animation 🎨
 - AI and Data Management 📊
-##
-** **
-##
-** **
-##
+
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+
 # MERHABA! 👋
 
 ## Ben Kimim?
@@ -55,7 +69,9 @@
 - 🐍 Python ustası
 - 🎨 Tasarımcı ve 3D modelleme tutkunu
 
-  ![GIF](https://media.giphy.com/media/your_gif_link_here.gif)
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<br><br>
 
 ## 🛠 Bildiğim Diller ve Araçlar
 ![Python](https://img.shields.io/badge/Code-Python-blue)
@@ -66,13 +82,25 @@
 
 ![Blender](https://img.shields.io/badge/3D-Blender-orange)
 
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+<br><br>
+
 ## 🎓 Üniversitede Aldığım Eğitimler
 - HTML, Visual Basic, Microsoft Access, PHP, Adobe Photoshop, Adobe Animate, Adobe Illustrator
+
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+<br><br>
 
 ## 🌱 İlgi Alanlarım
 - Oyun geliştirme
 - Yapay zeka ve derin öğrenme
 - Yapay zeka ve veri yönetimi
+  
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<br><br>
 
 ## 👥 Üniversite aktivitelerim
 
@@ -83,6 +111,9 @@
 **GDG on campus Atatürk Üniversitesi**
 - Rol: Design Core Team Member
 
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br><br>
 
 ## 🌟 Faaliyet Alanlarım & İlgi Alanlarım
 - Oyun Geliştirme 🎮
