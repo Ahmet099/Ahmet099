@@ -34,10 +34,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 <br><br>
 
-## 🌱 My Interests
-- Game Development
-- Artificial Intelligence & Deep Learning
-- AI & Data Management
+## 🌟🌱 Areas of Activity & Interests
+- Game Development 🎮
+- Artificial Intelligence & Deep Learning 🤖
+- 3D Modeling & Animation 🎨
+- AI and Data Management 📊
 
 <br><br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
@@ -53,12 +54,6 @@
 <br><br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
-
-## 🌟 Areas of Activity & Interests
-- Game Development 🎮
-- Artificial Intelligence & Deep Learning 🤖
-- 3D Modeling & Animation 🎨
-- AI and Data Management 📊
 
 <br><br>
 <br><br>
@@ -100,10 +95,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 <br><br>
 
-## 🌱 İlgi Alanlarım
-- Oyun geliştirme
-- Yapay zeka ve derin öğrenme
-- Yapay zeka ve veri yönetimi
+## 🌟🌱 Faaliyet Alanlarım & İlgi Alanlarım
+- Oyun Geliştirme 🎮
+- Yapay Zeka & Derin Öğrenme 🤖
+- 3D Modelleme & Animasyon 🎨
+- AI ve Veri Yönetimi 📊
   
 <br><br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
@@ -121,9 +117,3 @@
 <br><br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
-
-## 🌟 Faaliyet Alanlarım & İlgi Alanlarım
-- Oyun Geliştirme 🎮
-- Yapay Zeka & Derin Öğrenme 🤖
-- 3D Modelleme & Animasyon 🎨
-- AI ve Veri Yönetimi 📊
